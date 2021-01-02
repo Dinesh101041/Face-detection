@@ -14,8 +14,7 @@
 
 # Demo
 
-    when first time ploting in cv the image is always in BGR format
-
+    demo image
 ![image](images/demo.png)
    
 
