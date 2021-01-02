@@ -1,5 +1,5 @@
 # Face detection 
-    This is a facedetection project done as practice while learning computer vision  
+    This is a face detection project using cv2 library done as practice while learning computer vision  
 
 # Dependencies
     Opencv - computer vision library
@@ -9,7 +9,7 @@
 
     upload the image to  images folder and change the name in line 10 and enter below the command to run
 
-    python image.py
+    python main.py
 
 
 # Demo
